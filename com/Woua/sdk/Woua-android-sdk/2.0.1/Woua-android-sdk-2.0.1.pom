@@ -5,7 +5,7 @@
   <artifactId>Woua-android-sdk</artifactId>
   <version>2.0.1</version>
   <packaging>aar</packaging>
-  <name>toaster-message</name>
+  <name>Woua android sdk</name>
   <description>Android SDK</description>
   <url>https://github.com/Santhiya-Ganesan1338/ToasterExample.git</url>
   <licenses>
